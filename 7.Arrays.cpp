@@ -1,3 +1,5 @@
+//Given an array, , of  integers, print 's elements in reverse order as a single line of space-separated numbers.
+
 #include <bits/stdc++.h>
 
 using namespace std;
